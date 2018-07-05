@@ -1,0 +1,50 @@
+body {
+    background-color: #ededed;
+}
+.header {
+    padding: 0 !important;
+}
+
+.background-img {
+    background-image: url(../img/personal-img/lake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.project-title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.project-card {
+    margin-bottom: 30px;
+}
+
+.github-link {
+    float: right;
+}
+
+.prog-icon {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.prog-icon > i {
+    font-size: 100px;
+}
+
+main {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.photo-section > h3 {
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.footer-copyright {
+    background-color: #4f4f4f !important;
+}
