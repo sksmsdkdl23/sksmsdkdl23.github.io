@@ -2,4 +2,4 @@
 
 Created using **HTML5**, **CSS3**, **Bootstrap**, **MDB Bootstrap**.
 
-Can view the site at [philipchoi.me](philipchoi.me)
+Can view the site at [philipchoi.me](https://philipchoi.me)
