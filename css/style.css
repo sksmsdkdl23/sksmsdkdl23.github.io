@@ -6,8 +6,7 @@ body {
 }
 
 .background-img {
-    background-image: url(../img/personal-img/lake.jpg);
-    background-repeat: no-repeat;
+    background: url(../img/personal-img/lake.jpg) no-repeat center fixed;
     background-size: cover;
 }
 
