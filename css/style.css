@@ -1,5 +1,8 @@
 body {
-    background-color: #ededed !important;
+    background-color: #ededed;
+}
+.header {
+    padding: 0 !important;
 }
 
 .background-img {
@@ -39,4 +42,8 @@ main {
 .photo-section > h3 {
     margin: auto;
     margin-bottom: 15px;
+}
+
+.footer-copyright {
+    background-color: #4f4f4f !important;
 }
