@@ -30,9 +30,8 @@ body {
     text-align: center;
 }
 
-.icon {
-    width: 100px;
-    height: 100px;
+.prog-icon > i {
+    font-size: 100px;
 }
 
 main {
