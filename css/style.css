@@ -1,9 +1,6 @@
 body {
     background-color: #ededed !important;
 }
-.header {
-    padding: 0 !important;
-}
 
 .background-img {
     background: url(../img/personal-img/lake.jpg) no-repeat center fixed;
@@ -42,8 +39,4 @@ main {
 .photo-section > h3 {
     margin: auto;
     margin-bottom: 15px;
-}
-
-.footer-copyright {
-    background-color: #4f4f4f !important;
 }
