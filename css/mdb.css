@@ -6732,12 +6732,6 @@ body.scrollable {
   width: 20px;
   height: 20px; }
 
-.carousel .carousel-control-prev-icon {
-  background-image: url(../../img//svg/arrow_left.svg); }
-
-.carousel .carousel-control-next-icon {
-  background-image: url(../../img//svg/arrow_right.svg); }
-
 .carousel .carousel-indicators li {
   width: 0.625rem;
   height: 0.625rem;
