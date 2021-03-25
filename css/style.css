@@ -55,3 +55,9 @@ main {
 .footer-copyright {
     background-color: #4f4f4f !important;
 }
+
+.custom-row {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
